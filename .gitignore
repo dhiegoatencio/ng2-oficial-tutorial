@@ -37,5 +37,7 @@ jspm_packages
 .node_repl_history
 
 
-app/*.map
+app/*.js.map
 app/*.js
+app/**/*.js
+app/**/*.js.map
